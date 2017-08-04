@@ -12,4 +12,6 @@ have auth and refresh tokens
 have an endpoint/microservice to see if an auth token is expired
 have an endpoint/microservice to verify auth tokens
 support other countries
+take a backup email incase people change phone numbers
+backend worker to send sms messages
 =end
